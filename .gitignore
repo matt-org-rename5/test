@@ -10,4 +10,5 @@
 *.sig
 
 pkg/
-src/
+node_modules
+yarn-error.log
