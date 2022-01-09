@@ -1,6 +1,6 @@
 version: 0.1
 cli:
-  version: 0.4.3-beta
+  version: 0.5.0-beta
 api:
   address: api.trunk.io:5021
 repo:
