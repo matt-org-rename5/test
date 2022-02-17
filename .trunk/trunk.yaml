@@ -2,7 +2,7 @@ version: 0.1
 cli:
   version: 0.7.0-beta
 api:
-  address: api.trunk.io:5021
+  address: api.trunk-staging.io:5021
 repo:
   repo:
     host: github.com
