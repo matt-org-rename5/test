@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
 });
 
 // silly eslint errors on purpose
-if (port === NaN) {
+if (port.isNan()) {
   throw new Error("Port must be a number");
 }
 
