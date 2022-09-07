@@ -1,5 +1,9 @@
 name: Merge CI
-on: workflow_dispatch
+on:
+  pull_request: {}
+  push:
+    branches:
+      - trunk-merge/**
 
 jobs:
   build:
