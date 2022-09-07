@@ -5,7 +5,7 @@ api:
   address: api.trunk-staging.io:5021
 merge:
   statuses:
-    - Merge CI
+    - build
 repo:
   repo:
     host: github.com
